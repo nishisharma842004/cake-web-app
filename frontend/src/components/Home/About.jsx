@@ -34,7 +34,7 @@ const About = () => {
           <article>
             <div className="founder-details">
               <img src={founderImage} alt="Founders" className="founder-image" />
-              <h3>Pragya Verma</h3>
+              <h3>NISHI SHARMA</h3>
             </div>
 
             <p>
